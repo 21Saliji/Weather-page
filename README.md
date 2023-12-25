@@ -6,3 +6,5 @@ Welcome to the Weather Page project! This web application is supposed to provide
 I welcome feedback and contributions to make the Weather Page even better! If you encounter any issues or have ideas for improvements, please open an issue on the GitHub repository.
 
 Feel free to fork the repository, make changes, and submit a pull request if you'd like to contribute directly.
+week one is strictly html and css
+week two has javascript
